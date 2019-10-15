@@ -1,0 +1,173 @@
+
+
+ul#main-nav {
+    list-style-type: none;
+    text-align: center;
+    background-color:linen;
+    padding: 0;
+    margin: 20px;
+    border: 2px dotted black;
+    border-width: 5px;
+}
+
+ul#main-nav li a {
+    display: block;
+    color: black;
+    text-align: center;
+    font-family: Georgia;
+    padding: 14px 0; 
+ }
+
+ h1#subtitle {
+    background-color: whitesmoke;
+    color:black;
+    font-size: 25px;
+    margin: 0 0 20px 0;
+    text-align: center;
+    border-color: darkgray;
+ }
+
+
+ h1 {
+    background-color: white;
+    border: 1px solid linen;
+    color: black;
+    text-align: left;
+    font-size: 18px;
+    font-family: 'Dancing Script', cursive;
+    line-height: 46px;
+    margin: 0;
+    text-align: center;
+    
+}
+
+body {
+    background-color:lemonchiffon;
+    margin: 0px;
+    margin-left: 122px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 11px;
+    line-height: 15px;
+    color: #999999;
+    font-weight: bold;
+}
+
+div {
+    width: 800px;
+    margin: auto;
+}
+
+div h2 {
+    width:300px;
+    margin: auto;
+}
+
+div.intro {
+    width: 300px;
+    margin: auto;
+}
+
+body, 
+    h1 {
+        color: black;
+}
+
+#pancho {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding: 10px;
+}
+
+h2 {
+    border: 1px solid Black;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    line-height: 46px;
+    font-size: 18px;
+    margin: 40px;
+    text-align: center;
+    padding: 5px;
+}
+
+h3 {
+    border: 1px solid black;
+    padding: 5px;
+    background-color: white;
+    color: black; 
+    font-size: 15px;
+    text-align: center;
+}
+
+ ol#sites li a {
+     color: black;
+     list-style-type: none;
+     text-align: center;
+     font-size: 15px;
+     
+ }
+  p {
+    text-align: center;
+    font-family: Georgia;
+    background-color: linen;
+    color: black;
+    border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+    border-color: brown;
+    background-image: url(/WebDevPortfolio/background.jpg);
+}
+
+p2 {
+    text-align: center;
+    font-family: Georgia;
+    color:black;
+    border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+}
+
+.center {
+    color: navy;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+#Hello {
+    color: navy;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+ol li {
+    list-style-type: none;
+    text-align: center;
+    font-family: Georgia;
+    color: black;
+    font-size: 15px;
+    padding: 2px;
+}
+
+table, th, td {
+    border: 1px solid darkred;
+    border-right: dotted;
+    border-left: dotted;
+    text-align: center;
+    font-family: Georgia;
+}
+
+footer {
+    text-align: center;
+    font-family: Georgia;
+    padding: 5px;
+}
+  
