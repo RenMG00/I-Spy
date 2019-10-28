@@ -1,0 +1,25 @@
+div {
+    font-weight: bold;
+    border: 1px solid black;
+    background-color: lightgrey;
+    color:Black;
+    padding: 5px 5px;
+    margin: 5px 0px;
+    width: 800px;
+}
+
+body {
+    position: relative;
+    width: 100%;
+    background-image: url("numbers2.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+
+button {
+    background-color: lightblue;
+}
+
+#myInput {
+    border-color:darkslateblue;
+}

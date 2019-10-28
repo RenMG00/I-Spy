@@ -1,0 +1,241 @@
+/* Style the navigation bar */
+.navbar {
+    width: 100%;
+    background-color: #555;
+    overflow: auto;
+  }
+  
+  /* Navbar links */
+  .navbar a {
+    float: right;
+    text-align: right;
+    padding: 8px;
+    line-height: 8px;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  /* Navbar links on mouse-over */
+  .navbar a:hover {
+    background-color: #000;
+  }
+  
+  /* Current/active navbar link */
+  .active {
+    background-color: #4CAF50;
+  }
+
+ .Link {
+      position: relative;
+      top: 34px;
+      left: 0px;
+  }
+
+  img.me {
+    border-radius: 50%;
+    padding: 10px 10px;
+  }
+
+  img {
+      padding: 0px 5px 0px 0px;
+      margin: 5px 0px 0px 0px;
+  }
+
+  .message {
+      float: right;
+      padding: 2px 15px;
+      margin: 0px 5px;
+  }
+
+  .more {
+    float: right;
+    padding: 2px 5px;
+    margin: 0px 5px;
+    background-color: lightblue;
+  }
+
+ .headlist ul li {
+    display: inline-block;
+}
+
+  .container {
+      border: 1px solid darkgrey;
+      background-color: white;
+      padding: 5px 5px;
+      margin: 5px 0px;
+      width: 1000px;
+  }
+  
+  .Tetra {
+    float: right;
+    padding: 2px 5px;
+    margin: -10px 115px;
+  }
+
+  .background {
+    background-image: url(/bluechecks.jpg);
+  }
+  
+  body {
+      background-color:lightgray;
+  }
+
+  .about {
+      border: 1px solid darkgrey;
+      background-color: white;
+      padding: 5px 10px 20px 5px;
+      margin: 5px 0px;
+      width: 995px;
+  }
+
+  a {
+      color: black;
+      text-decoration: none;
+      font-size: 16px;
+  }
+
+  h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 5px 15px 15px 15px;
+  }
+
+  h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    padding: 0px 15px
+  }
+
+  h3 {
+    color: gray;
+    font-family: 'Roboto', sans-serif;
+    padding: 0px 15px;
+    font-size: 15px;
+  }
+
+  p {
+    font-family: 'Droid Serif', serif;
+    font-size: 15px;
+    padding: 0px 15px
+  }
+
+  .avatar {
+    border-radius: 50%;
+    padding: 0px 10px;
+  }
+
+
+  .experience {
+    border: 1px solid darkgrey;
+    background-color: white;
+    padding: 5px 5px;
+    margin: 5px 0px;
+    width: 1000px;
+}
+
+hr {
+  display: block;
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+  width: 1000px;
+}
+
+.education {
+    border: 1px solid darkgrey;
+    background-color: white;
+    padding: 5px 15px;
+    margin: 5px 0px;
+    width: 980px;
+}
+
+.schools {
+    padding: 0px 4px 0px 0px;
+}
+
+
+.volunteer {
+    border: 1px solid darkgrey;
+    background-color: white;
+    padding: 5px 5px;
+    margin: 5px 0px;
+    width: 1000px;
+}
+
+.skills {
+  border: 1px solid darkgrey;
+  background-color: white;
+  padding: 5px 5px;
+  margin: 5px 0px;
+  width: 1000px;
+}
+
+.recommendations {
+    border: 1px solid darkgrey;
+    background-color: white;
+    padding: 5px 5px;
+    margin: 5px 0px;
+    width: 1000px;
+}
+
+.recommendations li {
+    list-style-type: none;
+    display: inline;
+    text-decoration: underline;
+}
+
+.right-container{
+    position: fixed;
+    width: 425px;
+    height: px;
+    right: -90px;
+    top: 500px;
+    bottom: 25px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 20px 100px 0px 1200px;
+  }
+
+  h1.cinnamon {
+    font-family: 'Roboto', sans-serif;
+    padding: 30px 15px 0px 30px;
+  }
+
+  h2.cinnamon {
+    font-family: 'Roboto', sans-serif;
+    padding: 0px 15px 0px 70px;
+  }
+
+
+  h3.cinnamon {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    padding: 0px 15px 5px 70px;
+    
+  }
+
+  div.recommends {
+        position: relative;
+        width: 1040px;
+        height: 200px;
+        border: 1px solid black;
+      }
+
+div p.recommends {
+    position: absolute;
+    padding: 10px 10px 0px 10px;
+    top: 2525px;
+    right: 625px;
+    width: 250px;
+    height: 100px;
+    border: 1px solid mediumblue;
+}
+
+  
