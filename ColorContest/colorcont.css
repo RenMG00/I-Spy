@@ -1,0 +1,25 @@
+.formoutline {
+    border: 1px solid black;
+    width: 500px;
+    padding: 5px;
+    background-color: turquoise;
+}
+
+hr {
+    width: 500px;
+    margin: 0px 0px 0px 0px;
+}
+
+#button {
+    margin: 8px 0px;
+}
+
+form p {
+    font-weight: bold;
+}
+
+#response {
+    width: 500px;
+    background-color: lightcyan;
+    margin: 5px 5px;
+}

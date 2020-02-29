@@ -1,0 +1,26 @@
+body {
+    background-color:wheat;
+    text-align: center;
+  }
+
+  .cipher {
+    font-family: fantasy;
+    font-size: 30px;
+    text-align: center;
+  }
+  
+  textarea {
+    line-height: 20px;
+    border: 1.5px dashed black;
+  }
+input {
+  background-color: lightgray;
+}
+
+p {
+  font-family: 'Trebuchet MS';
+  font-weight: bold;
+  font-size: 18px;
+  display: inline;
+  margin: 10px 75px -5px 0px;
+}

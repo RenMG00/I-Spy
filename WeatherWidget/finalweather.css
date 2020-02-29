@@ -1,0 +1,31 @@
+#content {
+    color: white;
+    border: 2px solid grey;
+    background-color: transparent;
+    display: inline-block;
+    padding: 15px;
+    margin: 20px 18px 400px -10px;
+}
+
+body {
+    width: 800px;
+    background-image: url("darkclouds.jpg"), url("gray.jpg");
+    background-size: 1000px, 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 100px 330px 40px 395px;
+}
+
+#place0, #place1, #place2, #place3, #place4 {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+
+#conditions0, #conditions1, #conditions2, #conditions3,#conditions4 {
+    font-style: italic;
+}
+
+#day0, #day1, #day2, #day3, #day4 {
+font-family: 'Trebuchet MS';
+}

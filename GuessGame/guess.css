@@ -1,0 +1,21 @@
+div.guess {
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    position: relative;
+    margin: 350px 200px 50px 650px;
+}
+
+h3 {
+    font-size: 20px;
+    float: left;
+    font-style: italic;
+    padding: 0px 0px 0px 20px;
+    position: relative;
+    margin: -175px 200px 350px 700px;
+}
+
+form {
+    position: relative;
+    margin: 50px 200px 200px 700px;
+}
