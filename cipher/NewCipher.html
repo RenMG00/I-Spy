@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script defer src="NewCipher.js"></script>
+    <title>ROT13 Cipher</title>
+    <link rel="stylesheet" href="cipher.css">
+  </head>
+  
+  <body>
+    <div class="cipher">Shift Cipher</div>
+    <br>
+    <br>
+    <form name="cipherForm" onsubmit="handleFormSubmit(this)">
+      <p>Insert uppercase text!</p>
+      <input type="text" name="input" value="">
+      <input type="submit" value="encode">
+    </form>
+    <br>
+    <br>
+    <div id="cipherResult">
+      <textarea id="cipherResultTextArea" value="" cols="75"></textarea>
+    </div>
+    <br>
+    <form name="decodeCipherForm" onsubmit="decodeHandleFormSubmit(this)">
+        <p>Insert uppercase text!</p>
+            <input type="text" name="input1" value="">
+            <input type="submit" value="decode">
+          </form>
+          <br>
+          <br>
+          <div id="decodeCipherResult">
+            <textarea id="decodeCipherResultTextArea" value="" cols="75"></textarea>
+          </div>
+  </body>
+</html>
