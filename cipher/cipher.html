@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script defer src="cipher.js"></script>
+    <title>ROT13 Cipher</title>
+    <link rel="stylesheet" href="cipher.css">
+  </head>
+  
+  <body>
+    <div class="cipher">Shift Cipher</div>
+
+    <form name="cipherForm" onsubmit="handleFormSubmit(this);return false">
+      <input type="text" name="input" value="">
+      <input type="submit" value="apply">
+    </form>
+    
+    <br>
+    <br>
+    <div id="cipherResult">
+      <textarea id="cipherResultTextArea" value="" cols="75"></textarea>
+    </div>
+  </body>
+</html>
