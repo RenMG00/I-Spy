@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>XKCD</title>
+    <script defer src="xkcd.js"></script>
+    <link rel="stylesheet" href="xkcd.css">
+  </head>
+  <body>
+      <div>
+         <h1 class="title">Today's Comic</h1>
+        <div class="sidecontainer"></div>
+         <div>
+            <img id="hotel" title ="[proudly greeting the hotel manager at the door]\ Did I do a good job?">
+            <p id="text"></p>
+         </div>
+      </div><br>
+      <div>
+          <img id="other">
+      </div>
+      <div>
+          <input type="text" id="inputNumber" name="search">
+          <button id="myButton">Search Comics</button>
+      </div>
+      <div class="sidecontainer2"></div>
+      <table>
+          <th><img name="searchComics"></th>
+          <td><a href="https://cors-anywhere.herokuapp.com/https://xkcd.com/'+inputNumber.value+'/info.0.json"><p id="titletext"></p></a></td>
+          <td><p id="publishdate"></p></td>
+      </table>
+
+
+</body>
+  
+</html>
