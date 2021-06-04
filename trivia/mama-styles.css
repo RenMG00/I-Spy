@@ -1,0 +1,60 @@
+* {
+    font-display: center;
+    border: solid 2px pink;
+    margin: 5px;
+    padding: 2px 2px;
+}
+h1 {
+    text-align: center;
+}
+#category {
+    text-align: center;
+}
+input.radio {
+    text-align: center;
+}
+
+html {
+    background-image: url("swirl.jpg");
+    width: 50%;  
+    margin: 100px 300px 40px 400px;
+}
+option {
+    font-family: 'Bowlby One SC', cursive; 
+}
+span {
+    border: unset;
+}
+
+body {
+    font-family: 'Bowlby One SC', cursive;
+    display: inline-block;
+    width: 50%;
+    font-display: center ;
+    background-color: blanchedalmond;
+    background-position: center;
+    margin: 150px 330px 165px 160px;
+    padding:50px 25px 10px 25px;
+    
+     
+}
+
+.myContainer {
+    background: black;
+    color: pink;
+}
+.radioSelect {
+    display: block;
+    
+}
+
+button {
+    background: pink;
+    color: black;
+    border: none;
+}
+
+button:focus {
+    outline: none;
+    color: red;
+}

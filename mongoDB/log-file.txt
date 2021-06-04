@@ -1,0 +1,82 @@
+
+
+Updating title of Fahrenheit 451 using a callback function.
+index.js:80
+Connection Successful!
+index.js:14
+Creating book test
+index.js:83
+Creating fake book.
+index.js:92
+Creating other books.
+index.js:101
+Is a promise: true
+index.js:125
+Is a promise: true
+index.js:137
+Is a promise: true
+index.js:148
+Is a promise: true
+index.js:159
+Is a promise: true
+index.js:170
+Array(0) []
+index.js:75
+ID: 5e482675e4eb3b36acfe4f2d
+index.js:128
+model {$__: InternalCache, isNew: false, errors: undefined, _doc: Object, $locals: Object}
+index.js:129
+ID: 5e482675e4eb3b36acfe4f2d
+index.js:140
+model {$__: InternalCache, isNew: false, errors: undefined, _doc: Object, $locals: Object}
+index.js:141
+ID: 5e482675e4eb3b36acfe4f2e
+index.js:151
+model {$__: InternalCache, isNew: false, errors: undefined, _doc: Object, $locals: Object}
+index.js:152
+ID: 5e482675e4eb3b36acfe4f2e
+index.js:162
+model {$__: InternalCache, isNew: false, errors: undefined, _doc: Object, $locals: Object}
+index.js:163
+ID: 5e482675e4eb3b36acfe4f2e
+index.js:173
+model {$__: InternalCache, isNew: false, errors: undefined, _doc: Object, $locals: Object}
+
+-console after second debug session with create() commented out.-
+
+C:\Program Files\nodejs\node.exe --inspect-brk=35761 index.js 
+Debugger listening on ws://127.0.0.1:35761/fd0865e0-2640-422f-ae13-a30c39ccaf41
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+Is a Promise: true
+index.js:60
+Deleting fake book Scrum Buddies using callback.
+index.js:79
+Updating title of Fahrenheit 451 using a callback function.
+index.js:80
+Connection Successful!
+Array(5) [model, model, model, model, model]
+index.js:75
+Dead Witch Walking
+index.js:63
+Dune
+index.js:63
+Fahrenheit_451
+index.js:63
+Invisible Monsters
+index.js:63
+Scrum Buddies
+index.js:63
+Kim Harrison
+index.js:64
+Frank Herbert
+index.js:64
+Ray Bradburry
+index.js:64
+Chuck Palahniuk
+index.js:64
+Ren Gian
+index.js:64
+model {$__: InternalCache, isNew: false, errors: undefined, _doc: Object, $locals: Object, …}
+index.js:52
+model {$__: InternalCache, isNew: false, errors: undefined, _doc: Object, $locals: Object, …}

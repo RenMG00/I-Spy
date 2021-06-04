@@ -1,0 +1,14 @@
+{
+  "name": "timenode",
+  "version": "1.0.0",
+  "description": "MTM82-SOO, TIME NODE PART 1, MOMENT.JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ren Gian",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
